@@ -9,9 +9,9 @@ ANC hanesan reguladora sektor komunikasaun nebe toma autoridade merkadu konkoren
 image: /img/blog-chemex.jpg
 ---
 
-*'Anunsiu ida ne’e konvida aplikasaun husi individu sira nebe bele lori ba ANC qualidade hanesan:"*
+*Anunsiu ida ne’e konvida aplikasaun husi individu sira nebe bele lori ba ANC qualidade hanesan:*
 
-## The little secrets of Chemex brewing
+## ------
 
 1)    Komprensaun diak teb-tebes ba aspeitu tekniku telekomunikasaun no questaun regulatorias nian, no mos politika telekomunikasaun rai laran hamutu ho kontestu sira ne’ebe relevante;
 2)    Komprensaun ba papel ANC no sektor telekomunikasaun ba desenvolvimentu nasional nian inklui nesesidade konsumidores no sidadaun Timor-Leste nian;
