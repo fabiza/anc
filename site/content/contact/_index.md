@@ -1,19 +1,22 @@
 ---
-title: "Contact"
+title: "About"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "Avenida Xavier do Amaral"
+  - heading: Address
+    text: The office of ANC is located at:
+          Autoridade Nacional de Communicações (ANC)
+          Ground floor, Telecom Building
+          Avenida Xavier do Amaral
+          Dili, Timor-Leste
   - heading: Working hours
     text: "Monday – Friday: 8AM – 7PM We’re closed on Saturdays and Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+The National Communications Authority of Timor-Leste, formally Autoridade Nacional de Communicações (ANC) is a statutory authority established by the Telecommunications Decree-law No. 15/2012 of 28 March 2012.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<h3 class="f4 b lh-title mb2">ANC is Timor-Leste’s regulator for:</h3>
+telecommunications
+radio-communications
+broadcasting (in part)
+the Internet
+ANC replaces ARCOM, the previous regulatory body.
