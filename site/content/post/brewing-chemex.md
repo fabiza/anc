@@ -1,26 +1,41 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Vaga Diretur Tekniku ANC (2019-2023)
+date: 2019-02-08T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  **Vaga – Diretur Tekniku (full-time salarial)**
+  Ministru Transporte no Komunikasaun deseju atu halo nomeasaun ba Membru Konselhu Administrasaun Autoridade Nacional de Comunicação (ANC)— Director Tekniku ba Regulasaun nian hodi substituir membru nebe kompleta tiha ona ninian mandatu.
+ANC hanesan reguladora sektor komunikasaun nebe toma autoridade merkadu konkorensia ba industri komunikasaun sira iha Timor-Leste ho responsibilidade ba servisu telekomunikasaun, radio, televisaun no Internet.Ministru Transporte no Komunikasaun deseju atu halo nomeasaun ba Membru Konselhu Administrasaun Autoridade Nacional de Comunicação (ANC)— Director Tekniku ba Regulasaun nian hodi substituir membru nebe kompleta tiha ona ninian mandatu.
+ANC hanesan reguladora sektor komunikasaun nebe toma autoridade merkadu konkorensia ba industri komunikasaun sira iha Timor-Leste ho responsibilidade ba servisu telekomunikasaun, radio, televisaun no Internet..
 image: /img/blog-chemex.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
-
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+*'Anunsiu ida ne’e konvida aplikasaun husi individu sira nebe bele lori ba ANC qualidade hanesan:"*
 
 ## The little secrets of Chemex brewing
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+1)    Komprensaun diak teb-tebes ba aspeitu tekniku telekomunikasaun no questaun regulatorias nian, no mos politika telekomunikasaun rai laran hamutu ho kontestu sira ne’ebe relevante;
+2)    Komprensaun ba papel ANC no sektor telekomunikasaun ba desenvolvimentu nasional nian inklui nesesidade konsumidores no sidadaun Timor-Leste nian;
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Alemde qualidade rua iha leten, aplikante mos tenke prense kriteriu tuir Artigu 7 Decretu-Lei No 15/2012 kona ba Regulamentasaun Sektor Telekomunikasaun hanesan tuir mai:
+3)    Kandidatu nebe hetan nomeasaun mak ema nebe iha integridade, ho independensia ba ninian hanoin, iha reputasaun diak, no iha kunhesementu profundu ka experiência iha telekomunikasaun, komérsiu, ekonomia, direitu ka jestaun;
+4)    Kandidatu nebe LA’OS ema ida ho kondisaun, situasaun ka karakter sira tuir mai:
+a)    Iha, ka iha tinan rua ikus liu ba, qualquer interese financeiru ka interese seluk, direita ka indireita, iha qualquer operador telekomunikasaun nian;
+b)    Hanesan membru ka kandidatu atual ba eleisaun membru Parlamentu Nasional ka Orgaun poder lokal;
+c)    Hanesan titulariu ka kandidatu atual ba eleisaun para titular ba kargu iha partidu polítiku registadu;
+d)    Hanesan ema incapaz ka inimputável tuir definisaun lei;
+e)    Hanesan kondenadu ba qualquer delito/krimi iha exercício funsaun publiku nian ka iha ofensa kontra patrimóniu iha qualquer país;
+f)    Atual ka iha okasaun durante tinan tolu ikus liu ba iha situasaun falência (bankrupt) ka insolvência iha qualquer país;
+g)    Hanesan funsionáriu públiku; ka
+h)    Hanesan aman/inan, oan, irmaun/irmas, ka spousa ba ema ida deskrita iha alínea a), b) ka c) iha leten.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Oportunidade ne’e nakloke ba ema hot-hotu: feto no mane, no ema ho defisiensia. Kona ba informasaun detallu liu tan no oinsa atu submete aplikasaun, bele hare iha: http://anc.tl/.
+Loron ikus atu hatama aplikasaun mak: Sexta-feira, 22 Fevereiru 2019.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Dili, 8 Fevereiru 2019
+Gabinete do Ministru MTC
+
+Alvaro da Silva
+Chefe Gabinete
+
+Updated on 08/02/2019: Hakarak apply ba vaga ida ne’e? Favor klik iha ne’e.
+Updated on 08/02/2019: Notisia Vaga.
