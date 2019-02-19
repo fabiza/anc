@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Address
