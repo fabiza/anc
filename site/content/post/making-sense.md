@@ -1,27 +1,39 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: "Vaga Diretur Tekniku ANC (2019-2023)"
+date: 2019-02-08T15:04:10.000Z
+description: Vaga – Diretur Tekniku (full-time salarial).
 image: /img/blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Ministru Transporte no Komunikasaun deseju atu halo nomeasaun ba Membru Konselhu Administrasaun Autoridade Nacional de Comunicação (ANC)— Director Tekniku ba Regulasaun nian hodi substituir membru nebe kompleta tiha ona ninian mandatu.
+ANC hanesan reguladora sektor komunikasaun nebe toma autoridade merkadu konkorensia ba industri komunikasaun sira iha Timor-Leste ho responsibilidade ba servisu telekomunikasaun, radio, televisaun no Internet.Ministru Transporte no Komunikasaun deseju atu halo nomeasaun ba Membru Konselhu Administrasaun Autoridade Nacional de Comunicação (ANC)— Director Tekniku ba Regulasaun nian hodi substituir membru nebe kompleta tiha ona ninian mandatu. ANC hanesan reguladora sektor komunikasaun nebe toma autoridade merkadu konkorensia ba industri komunikasaun sira iha Timor-Leste ho responsibilidade ba servisu telekomunikasaun, radio, televisaun no Internet.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+*Anunsiu ida ne’e konvida aplikasaun husi individu sira nebe bele lori ba ANC qualidade hanesan:*
+1)    Komprensaun diak teb-tebes ba aspeitu tekniku telekomunikasaun no questaun regulatorias nian, no mos politika telekomunikasaun rai laran hamutu ho kontestu sira ne’ebe relevante;
+2)    Komprensaun ba papel ANC no sektor telekomunikasaun ba desenvolvimentu nasional nian inklui nesesidade konsumidores no sidadaun Timor-Leste nian;
 
 ## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Alemde qualidade rua iha leten, aplikante mos tenke prense kriteriu tuir Artigu 7 Decretu-Lei No 15/2012 kona ba Regulamentasaun Sektor Telekomunikasaun hanesan tuir mai:
+3) Kandidatu nebe hetan nomeasaun mak ema nebe iha integridade, ho independensia ba ninian hanoin, iha reputasaun diak, no iha kunhesementu profundu ka experiência iha telekomunikasaun, komérsiu, ekonomia, direitu ka jestaun;
+4) Kandidatu nebe LA’OS ema ida ho kondisaun, situasaun ka karakter sira tuir mai:
+a) Iha, ka iha tinan rua ikus liu ba, qualquer interese financeiru ka interese seluk, direita ka indireita, iha qualquer operador telekomunikasaun nian;
+b) Hanesan membru ka kandidatu atual ba eleisaun membru Parlamentu Nasional ka Orgaun poder lokal;
+c) Hanesan titulariu ka kandidatu atual ba eleisaun para titular ba kargu iha partidu polítiku registadu;
+d) Hanesan ema incapaz ka inimputável tuir definisaun lei;
+e) Hanesan kondenadu ba qualquer delito/krimi iha exercício funsaun publiku nian ka iha ofensa kontra patrimóniu iha qualquer país;
+f) Atual ka iha okasaun durante tinan tolu ikus liu ba iha situasaun falência (bankrupt) ka insolvência iha qualquer país;
+g) Hanesan funsionáriu públiku; ka
+h) Hanesan aman/inan, oan, irmaun/irmas, ka spousa ba ema ida deskrita iha alínea a), b) ka c) iha leten.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+Oportunidade ne’e nakloke ba ema hot-hotu: feto no mane, no ema ho defisiensia. Kona ba informasaun detallu liu tan no oinsa atu submete aplikasaun, bele hare iha: http://anc.tl/.
+Loron ikus atu hatama aplikasaun mak: Sexta-feira, 22 Fevereiru 2019.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Dili, 8 Fevereiru 2019
+Gabinete do Ministru MTC
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Alvaro da Silva
+Chefe Gabinete
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Updated on 08/02/2019: Hakarak apply ba vaga ida ne’e? Favor klik iha ne’e.
+Updated on 08/02/2019: Notisia Vaga.
